@@ -1,2 +1,2 @@
 # python-programs
-This repository contains MDC assignment tasks
+This repository contains MDC assignment program tasks
